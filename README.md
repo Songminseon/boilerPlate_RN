@@ -1,2 +1,3 @@
-# 퍼네이션 어플리케이션 
-잠시 후퇴...
+# BoilerPlate for React Native
+Navigation (Stack + Bottom)
+Kakao Login Init
